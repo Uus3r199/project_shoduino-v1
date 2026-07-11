@@ -29,13 +29,13 @@ Before starting, ensure you have the Arduino IDE installed. If you don't have it
 
    Open the Arduino IDE, go to the ***Sketchbook***, and you should be able to see `project_shoduino v1` there, just as shown in the image.
    
-   <img width="718" height="361" alt="002abc66-9d97-413d-8cda-f0ffe2500e5d" src="https://github.com/user-attachments/assets/f5517ae5-31d0-45cf-a0c9-4f3d2623e498" />
+   <img width="718" height="361" alt="002abc66-9d97-413d-8cda-f0ffe2500e5d" src="https://github.com/user-attachments/assets/386c6b3c-f7da-41c5-9f22-60b025a20d3e" />
   
 7. **Add ZIP Library**
 
    In the Arduino IDE, go to `Sketch → Include Library → Add .ZIP Library`. Choose the `project_shoduino v1.zip` inside the **project_shoduino-v1-main** folder
 
-   <img width="617" height="343" alt="aa8141dd-e44d-4cae-8f81-06bc37a0a31c" src="https://github.com/user-attachments/assets/2a561b0c-03dd-427b-9e00-d743016ef1e8" />
+   <img width="617" height="343" alt="aa8141dd-e44d-4cae-8f81-06bc37a0a31c" src="https://github.com/user-attachments/assets/d97549d2-da32-442d-a866-bbd66c6e816a" />
    
 9. **Compile/Upload**
  
